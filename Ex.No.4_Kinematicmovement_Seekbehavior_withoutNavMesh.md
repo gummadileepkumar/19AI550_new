@@ -23,8 +23,11 @@ To write a program to simulate the process of seek behavior in Unity
 12. Run the game 
 13. Stop the program
     
+    
 ### Program:
+
 ```
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -51,6 +54,8 @@ public class Script : MonoBehaviour
         transform.position += direction * speed * Time.deltaTime;
     }
 }
+
+
 ```
 ### Output:
 
@@ -61,5 +66,7 @@ public class Script : MonoBehaviour
 
 
 
+
 ### Result:
+
 Thus the simple seek behavior was implemented successfully.
