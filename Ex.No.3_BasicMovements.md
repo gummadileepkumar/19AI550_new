@@ -1,4 +1,4 @@
-# Ex.No: 2  Basic movements in Unity 
+# Ex.No: 3  Basic movements in Unity 
 ### DATE: 
 ### NAME : Gumma Dileep Kumar
 ### REGISTER NUMBER : 212222240032
