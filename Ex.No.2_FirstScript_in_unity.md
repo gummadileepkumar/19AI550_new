@@ -16,8 +16,7 @@
 9. Run the program
 10. Stop the program.
 ### Program 
-```
-using System.Collections;
+```using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 public class FirstScript : MonoBehaviour
@@ -35,14 +34,8 @@ public class FirstScript : MonoBehaviour
     }
 }
 ```
-
-
-
-
 ### Output:
 ![image](https://github.com/user-attachments/assets/9bd44fa5-4e1d-4175-a78f-7e406a0c3b2d)
-
-
 
 ### Result:
 Thus the basic scripting in Unity and printing welcome message in Console window is successfully executed. 
